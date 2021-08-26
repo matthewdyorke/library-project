@@ -1,0 +1,16 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.95.10",
+    "pg": "^8.7.1"
+  }
+}
